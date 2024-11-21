@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SecureLaunchConfirmer.App": {
+      "commandName": "Project",
+      "commandLineArgs": "\"https://www.a32kita.net\""
+    }
+  }
+}
