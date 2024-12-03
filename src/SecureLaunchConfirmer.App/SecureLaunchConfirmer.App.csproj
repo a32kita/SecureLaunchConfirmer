@@ -7,7 +7,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
 	<UseWindowsForms>true</UseWindowsForms>
+	<ApplicationIcon>icon.ico</ApplicationIcon>
+	<Company>Explorers of the Binary World</Company>
+	<Authors>Explorers of the Binary World / a32kita</Authors>
+	<Product>Secure Launch Confirmer</Product>
+	<Title>Secure Launch Confirmer</Title>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\SecureLaunchConfirmer.Common\SecureLaunchConfirmer.Common.csproj" />
